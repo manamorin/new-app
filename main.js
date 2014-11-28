@@ -28,3 +28,4 @@ function addText(text){
   msgDom.innerHTML = text;
   board.insertBefore(msgDom, board.firstChild);
 }
+var milkcocoa = new MilkCocoa("http://manamorin.github.io/new-app/");
