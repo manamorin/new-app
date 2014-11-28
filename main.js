@@ -28,4 +28,4 @@ function addText(text){
   msgDom.innerHTML = text;
   board.insertBefore(msgDom, board.firstChild);
 }
-var milkcocoa = new MilkCocoa("http://manamorin.github.io/new-app/");
+var milkcocoa = new MilkCocoa("https://io-ji3151s0d.mlkcca.com");
