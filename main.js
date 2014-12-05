@@ -1,4 +1,4 @@
-var milkcocoa = new MilkCocoa("https://{http://manamorin.github.io/new-app/}.mlkcca.com/");;
+var milkcocoa = new MilkCocoa("http://cdn.mlkcca.com/v0.2.8/milkcocoa.js");;
 /* your-app-id にアプリ作成時に発行される"io-"から始まるapp-idを記入します */
 var chatDataStore = milkcocoa.dataStore("chat");
 var textArea, board;
